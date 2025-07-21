@@ -9,7 +9,7 @@
 * [KiwiBot](#kiwibot)
   * [Inspiration, Purpose and Goals](#inspiration-purpose-and-goals)
   * [What It Does / Overview](#what-it-does--overview)
-  * [File Organization / How It's Made](#file-organization--how-its-made)\
+  * [File Organization / How It's Made](#file-organization--how-its-made)
   * [Challenges Faced](#challenges-faced)
   * [Accomplishments To Be Proud Of](#accomplishments-to-be-proud-of)
   * [Next Steps](#next-steps)
