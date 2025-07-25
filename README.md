@@ -45,7 +45,7 @@ Refer to arduino_sketches for the logic of the robot, the glove controller and t
 
 Refer to scripts for supportive visuals that can be run on a computer which are written in `Python`
 
-Refer to CAD_Files for CAD design and 3D printing files
+Refer to CAD_Files for CAD design and 3D printing files created in `Fusion360`
 
 ## Challenges Faced
 The greatest challenge of this project was getting accurate tilt controls that felt good and intuitive. Of the ~25 people that used the design, it’s clear that for some it comes very easily,
